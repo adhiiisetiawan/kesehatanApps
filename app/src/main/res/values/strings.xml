@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Kesehatan Apps</string>
+    <string name="scan_qr_code">Scan QR Code</string>
+    <string name="klik_tombol_dibawah_untuk_scan">Klik tombol dibawah untuk scan</string>
+    <string name="input_nim_manual">Input NIM Manual</string>
+    <string name="submit">submit</string>
+</resources>
